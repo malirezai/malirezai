@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Mahdi and I'm a Solutions Engineer at GitHub. Previously, I worked at Microsoft focused on Containers, Serverless, and Blockchain. Before that, I worked at Xamarin.
+My name is Mahdi and I'm a Solutions Engineer at GitHub. Previously, I worked at Microsoft focused on Microservices, Serverless, and Blockchain. Before that, I worked at Xamarin.
 
 Ask me about:
 - 🇨🇦 Toronto, Canada - where I live!
