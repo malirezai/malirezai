@@ -5,5 +5,5 @@ My name is Mahdi and I'm a Solutions Engineer at GitHub. Previously, I worked at
 Ask me about:
 - 🇨🇦 Toronto, Canada - where I live!
 - Cars - dreaming of a 997.2 Targa these days!
-- Mobile Apps 
+- Scuba Diving
 - Blockchain tech, smart contracts and crypto
